@@ -1,6 +1,24 @@
 {
-  "listOptions":{
-    {"id": 1, "name":"thisName","dspMenu":"aboutThis","color":"primary","url":"whatever"},
-    {"id": 2, "name":"otherName","dspMenu":"aboutOther","color":"primary","url":"whatever"},
-    {"id": 3, "name":"mission","dspMenu":"Mission Statement","color":"secondary","url":"#mission"},
+    "listOptions":{
+      {
+        "id": 1, 
+        "name":"thisName",
+        "dspMenu":"aboutThis",
+        "color":"primary",
+        "url":"#whatever"
+    },
+      { 
+        "id": 2, 
+        "name":"otherName",
+        "dspMenu":"aboutOther",
+        "color":"primary",
+        "url":"#whatever"
+    },
+      { 
+        "id": 3, 
+        "name":"mission",
+        "dspMenu":"Mission Statement",
+        "color":"secondary",
+        "url":"#mission"},
+  }
 }
