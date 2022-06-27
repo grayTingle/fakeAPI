@@ -1,5 +1,5 @@
 {
-    "listOptions":{
+    "listOptions":[
       {
         "id": 1, 
         "name":"thisName",
@@ -19,6 +19,6 @@
         "name":"mission",
         "dspMenu":"Mission Statement",
         "color":"secondary",
-        "url":"#mission"},
-  }
+        "url":"#mission"}
+      ]
 }
