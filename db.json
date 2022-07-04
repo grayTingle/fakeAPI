@@ -1,24 +1,16 @@
 {
     "listOptions":[
       {
-        "id": 1, 
-        "name":"thisName",
-        "dspMenu":"aboutThis",
-        "color":"primary",
-        "url":"#whatever"
+        "title": 1, 
+        "description":"thisdescription"
     },
       { 
-        "id": 2, 
-        "name":"otherName",
-        "dspMenu":"aboutOther",
-        "color":"primary",
-        "url":"#whatever"
+        "title": 2, 
+        "description":"otherdescription"
     },
       { 
-        "id": 3, 
-        "name":"mission",
-        "dspMenu":"Mission Statement",
-        "color":"secondary",
-        "url":"#mission"}
+        "title": 3, 
+        "description":"whydowedothis"
+      }
       ]
 }
